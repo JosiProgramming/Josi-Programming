@@ -17,18 +17,25 @@
 
 <img align="right" width="260" src="./assets/avatar.gif" alt="Ilustração Josi Tech" />
 
+# 💫 Sobre mim:
 - 🔭 **Entusiasta em:** Ruby, Ruby on Rails, Linux
 - 🌱 **Aprendendo:** Desenvolvimento de software
-- 📫 **Onde me encontrar:** [Linkedin](https://www.linkedin.com/in/joseane-oliveira-/) | [GitHub](https://github.com/JosiProgramming)
+- 📫 **Onde me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseane-oliveira-/)  | [GitHub](https://github.com/JosiProgramming)
 - ⚡ **Curiosidade:** apaixonada por estética dark/tech e cultura anime
 
 <br clear="right"/>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JosiProgramming&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=JosiProgramming&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JosiProgramming&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JosiProgramming&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiProgramming&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
+
