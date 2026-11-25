@@ -1,4 +1,5 @@
-# JosiProgramming/Josi-Programming.github.io/tree/main
+# Josi-Programming.github.io
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=JosiProgramming&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
 </div>
