@@ -2,10 +2,6 @@
   <img src= "https://capsule-render.vercel.app/api?type=speech&height=200&color=6eaa5e&section=header&reversal=false&text=Hello+World+&textBg=false&fontColor=ffffff&stroke=ffffff&strokeWidth=0&fontSize=70&fontAlign=50&fontAlignY=46&rotate=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=JosiProgramming&label=Profile%20views&color=10b981&style=flat-square" alt="Profile views" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Hello%2C+World!+%F0%9F%91%8B;Building+projects+%26+learning+every+day;Dark+aesthetic+%2B+code" alt="Typing SVG" />
 </p>
