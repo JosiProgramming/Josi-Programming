@@ -2,8 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=JosiProgramming&label=Profile%20views&color=7c3aed&style=flat"/>
 </div>
 
-<h1 align="center">Hi! 👋</h1>
-<h3 align="center"> Aspiring Software Developer | Software Engineering Student </h3>
+<h1 align="center"> Hi! 👋</h1>
+<h2 align="center"> Sou a Joseane Oliveira </h2>
+<h3 align="center"> Aspirante em Desenvolvimento de Software | Estudante de Engenharia de Software </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
