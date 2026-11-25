@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&section=footer&reversal=false&text=Hello+World%21+&textBg=false&fontSize=90&fontAlign=50&fontAlignY=55&animation=scaleIn&rotate=0&strokeWidth=0&descSize=22&descAlign=50&descAlignY=60"/>
 </p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=JosiProgramming&label=Profile%20views&color=7c3aed&style=flat"/>
-</div>
-
-<h1 align="center"> Hi! 👋</h1>
 <h2 align="center"> Sou a Joseane Oliveira </h2>
 <h3 align="center"> Aspirante em Desenvolvimento de Software | Estudante de Engenharia de Software </h3>
 
