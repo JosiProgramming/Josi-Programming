@@ -8,7 +8,7 @@
 <h3 align="center">Tech Content Creator & Developer</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
 </p>
 
 ---
