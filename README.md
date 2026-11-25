@@ -24,7 +24,7 @@
 <img align="right" width="260" src="./assets/avatar.gif" alt="Ilustração" />
 
 - 🔭 **Atualmente trabalhando em:** Ruby on rails, Linux
-- 🌱 **Aprendendo:** Desenvolvimento de Software
+- 🌱 **Aprendendo:** Desenvolvimento de Software e Integrações com IA
 
 <br clear="right"/>
 
