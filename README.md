@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Sou%2CJoseane+ Oliveira+%F0%9F%91%8B;Aspirante+Desenvolvimento+%26+de+Software" alt="Typing SVG" />
+  <img src="<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=6EAA5E&center=true&vCenter=true&width=580&lines=Sou+a+Joseane+Oliveira;Aspirante+a+desenvolvedora+de+software" alt="Typing SVG" />
+</p>" alt="Typing SVG" />
 </p>
 
 <p align="center">
