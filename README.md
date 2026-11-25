@@ -1,40 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&section=footer&reversal=false&text=Hello+World%21+&textBg=false&fontSize=90&fontAlign=50&fontAlignY=55&animation=scaleIn&rotate=0&strokeWidth=0&descSize=22&descAlign=50&descAlignY=60"/>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=2000&color=00DA05&vCenter=true&multiline=true&width=435&lines=Sou+a+Joseane+Oliveira" alt="Typing SVG" /></a>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=2000&color=00DA05&vCenter=true&multiline=true&width=435&lines=Aspirante+em+Desenvolvimento" alt="Typing SVG" /></a>
-</p>
-  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
-</p>
-
----
-
-<img align="right" width="260" src="./assets/avatar.gif" alt="Ilustração Josi Tech" />
-
-# 💫 Sobre mim:
-- 🔭 **Entusiasta em:** Ruby, Ruby on Rails, Linux
-- 🌱 **Aprendendo:** Desenvolvimento de software
-- 📫 **Onde me encontrar:** [LinkedIn](https://www.linkedin.com/in/joseane-oliveira-/) | [GitHub](https://github.com/JosiProgramming)
-
-<br clear="right"/>
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JosiProgramming&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=JosiProgramming&theme=shadow_green&hide_border=true)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JosiProgramming&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:064e3b&height=175&section=header&text=Josi%20Tech&fontSize=42&fontColor=34d399&desc=Developer%20%26%20Tech%20Content%20Creator&descAlignY=72&descColor=a7f3d0" />
 </p>
 
@@ -95,6 +59,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JosiProgramming&show_icons=true&bg_color=135,000000,064e3b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiProgramming&layout=compact&bg_color=135,000000,064e3b&title_color=34d399&text_color=ecfdf5&hide_border=true" />
 </p>
+
 
 
 
