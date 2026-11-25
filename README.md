@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Hello%2C+World!+%F0%9F%91%8B;Building+projects+%26+learning+every+day;Dark+aesthetic+%2B+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=34D399&center=true&vCenter=true&width=520&lines=Sou%2CJoseane+ Oliveira+%F0%9F%91%8B;Aspirante+Desenvolvimento+%26+de+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
 </p>
 
 <p align="center">
