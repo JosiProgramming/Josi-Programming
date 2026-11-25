@@ -14,9 +14,11 @@
   <a href="https://github.com/JosiProgramming">
     <img src="https://img.shields.io/badge/GitHub-JosiProgramming-052e16?style=for-the-badge&logo=github&logoColor=34d399" alt="GitHub" />
   </a>
+  
   <a href="https://https://www.linkedin.com/in/joseane-oliveira-/">
-    <img src="https://img.shields.io/badge/Linkedin-joseane-oliveira-052e16?style=for-the-badge&logo=youtube&logoColor=34d399](https://img.shields.io/badge/linkedin.com%2Fin%2Fjoseane-oliveira-%2F
-)" alt="Linkedin" />
+    <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fjoseane-oliveira-%2F" alt="Linkedin" />
+  </a>
+
   </a>
 </p>
 
