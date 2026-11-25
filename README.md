@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&section=footer&reversal=false&text=Hello+World%21+&textBg=false&fontSize=90&fontAlign=50&fontAlignY=55&animation=scaleIn&rotate=0&strokeWidth=0&descSize=22&descAlign=50&descAlignY=60"/>
 </p>
 
-<h2 align="center"> Sou a Joseane Oliveira </h2>
-<h3 align="center"> Aspirante em Desenvolvimento de Software | Estudante de Engenharia de Software </h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&color=00DA05&vCenter=true&multiline=true&width=435&lines=Sou+a+Joseane+Oliveira;Aspirante+em+Desenvolvimento+de+Software+%7C+Estudante+de+Engenharia+de+Softwar" alt="Typing SVG" /></a>
+</p> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
