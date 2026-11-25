@@ -1,2 +1,2 @@
-# Josi-Programming.github.io
+# JosiProgramming.github.io
 Me
