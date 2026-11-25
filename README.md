@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=6EAA5E&center=true&vCenter=true&width=580&lines=Sou+a+Joseane+Oliveira;Aspirante+a+desenvolvedora+de+software" alt="Typing SVG" />
 </p>
 
@@ -29,7 +28,7 @@
 
 <br clear="right"/>
 
-<h3 align="center">📈 Activity Graph</h3>
+<h3 align="center">📈 Atividades </h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosiProgramming&bg_color=000000&color=34d399&line=10b981&point=6ee7b7&area=true&area_color=064e3b&hide_border=true" alt="Activity Graph" />
@@ -37,7 +36,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Status</h3>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JosiProgramming&show_icons=true&bg_color=135,000000,064e3b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&hide_border=true" />
