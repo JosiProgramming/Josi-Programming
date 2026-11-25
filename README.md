@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:064e3b&height=175&section=header&text=Joseane%20Oliveira&fontSize=42&fontColor=34d399&desc=Developer%20%26%20Tech%20Enthusiast&descAlignY=72&descColor=a7f3d0" />
+  <img src= "https://capsule-render.vercel.app/api?type=speech&height=200&color=green&section=header&reversal=false&text=Hello+World+&textBg=false&fontSize=70&fontAlign=50&fontAlignY=46&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60"/>
 </p>
 
 <div align="right">
@@ -27,23 +27,10 @@
 
 <img align="right" width="260" src="./assets/avatar.gif" alt="Ilustração" />
 
-- 🔭 **Atualmente trabalhando em:** projetos de desenvolvimento e tecnologia
-- 🌱 **Aprendendo:** desenvolvimento de software, segurança digital e automação
-- 💬 **Fale comigo sobre:** programação, ferramentas open-source, privacidade e design
-- 📫 **Onde me encontrar:** [LinkedIn](https://www.linkedin.com/in/joseane-oliveira-/) | [GitHub](https://github.com/JosiProgramming)
-- ⚡ **Curiosidade:** apaixonada por estética dark/tech e cultura anime
+- 🔭 **Atualmente trabalhando em:** Ruby on rails, Linux
+- 🌱 **Aprendendo:** Desenvolvimento de Software
 
 <br clear="right"/>
-
----
-
-<h3 align="center">🏆 Trophies 🏆</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosiProgramming&theme=matrix&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
 
 <h3 align="center">📈 Activity Graph</h3>
 
@@ -58,4 +45,4 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JosiProgramming&show_icons=true&bg_color=135,000000,064e3b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiProgramming&layout=compact&bg_color=135,000000,064e3b&title_color=34d399&text_color=ecfdf5&hide_border=true" />
-</p>**
+</p>
