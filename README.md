@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=JosiProgramming&label=Profile%20views&color=7c3aed&style=flat"/>
 </div>
 
-<h1 align="center">Hello, World! 👋</h1>
-<h3 align="center">Tech Content Creator & Developer</h3>
+<h1 align="center">Hi! 👋</h1>
+<h3 align="center"> Aspiring Software Developer | Software Engineering Student </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
@@ -15,17 +15,16 @@
 
 <img align="right" width="260" src="./assets/avatar.gif" alt="Ilustração Josi Tech" />
 
-- 🔭 **Atualmente trabalhando em:** projetos de tecnologia e conteúdos no canal **Josi Tech**
-- 🌱 **Aprendendo:** desenvolvimento de software, segurança digital e automação
+- 🔭 **Entusiasta em:** Ruby, Ruby on Rails, Linux
+- 🌱 **Aprendendo:** Desenvolvimento de software
 - 💬 **Fale comigo sobre:** programação, ferramentas open-source, privacidade e design
-- 📫 **Onde me encontrar:** [YouTube (@JosiTech)](https://www.youtube.com) | [GitHub](https://github.com/JosiProgramming)
+- 📫 **Onde me encontrar:** [Linkedin](https://www.linkedin.com/in/joseane-oliveira-/) | [GitHub](https://github.com/JosiProgramming)
 - ⚡ **Curiosidade:** apaixonada por estética dark/tech e cultura anime
 
 <br clear="right"/>
 
 ---
 
-<h3 align="center">🏆 Trophies 🏆</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JosiProgramming&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
