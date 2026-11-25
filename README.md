@@ -20,8 +20,7 @@
 # 💫 Sobre mim:
 - 🔭 **Entusiasta em:** Ruby, Ruby on Rails, Linux
 - 🌱 **Aprendendo:** Desenvolvimento de software
-- 📫 **Onde me encontrar:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joseane-oliveira-/)  | [GitHub](https://github.com/JosiProgramming)
-- ⚡ **Curiosidade:** apaixonada por estética dark/tech e cultura anime
+- 📫 **Onde me encontrar:** [LinkedIn](https://www.linkedin.com/in/joseane-oliveira-/) | [GitHub](https://github.com/JosiProgramming)
 
 <br clear="right"/>
 
