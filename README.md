@@ -7,6 +7,10 @@
 </p> 
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=2000&color=00DA05&vCenter=true&multiline=true&width=435&lines=Aspirante+em+Desenvolvimento+de+Software+" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,ruby,python,git,github,linux,windows&theme=dark" />
 </p>
 
