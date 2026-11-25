@@ -15,18 +15,10 @@
 
 - 🔭 **Entusiasta em:** Ruby, Ruby on Rails, Linux
 - 🌱 **Aprendendo:** Desenvolvimento de software
-- 💬 **Fale comigo sobre:** programação, ferramentas open-source, privacidade e design
 - 📫 **Onde me encontrar:** [Linkedin](https://www.linkedin.com/in/joseane-oliveira-/) | [GitHub](https://github.com/JosiProgramming)
 - ⚡ **Curiosidade:** apaixonada por estética dark/tech e cultura anime
 
 <br clear="right"/>
-
----
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosiProgramming&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
 
 ---
 
