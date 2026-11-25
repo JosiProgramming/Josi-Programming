@@ -5,7 +5,6 @@
 <p align="center">
   <img src="<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=6EAA5E&center=true&vCenter=true&width=580&lines=Sou+a+Joseane+Oliveira;Aspirante+a+desenvolvedora+de+software" alt="Typing SVG" />
-</p>" alt="Typing SVG" />
 </p>
 
 <p align="center">
